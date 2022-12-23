@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>aspnet-CleanArchNetCore.MVC-7a9b616d-46d1-4d99-9288-06defb890115</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CleanArchNetCore.Infra.Data\CleanArchNetCore.Infra.Data.csproj" />
+    <ProjectReference Include="..\CleanArchNetCore.Infra.IoC\CleanArchNetCore.Infra.IoC.csproj" />
+  </ItemGroup>
+
+</Project>

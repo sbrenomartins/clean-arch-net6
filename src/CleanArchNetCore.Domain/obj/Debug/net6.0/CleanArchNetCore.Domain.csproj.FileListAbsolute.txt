@@ -1,0 +1,12 @@
+C:\Users\brenomartinssilva_fr\source\repos\CleanArchNetCore\src\CleanArchNetCore.Domain\bin\Debug\net6.0\CleanArchNetCore.Domain.deps.json
+C:\Users\brenomartinssilva_fr\source\repos\CleanArchNetCore\src\CleanArchNetCore.Domain\bin\Debug\net6.0\CleanArchNetCore.Domain.dll
+C:\Users\brenomartinssilva_fr\source\repos\CleanArchNetCore\src\CleanArchNetCore.Domain\bin\Debug\net6.0\CleanArchNetCore.Domain.pdb
+C:\Users\brenomartinssilva_fr\source\repos\CleanArchNetCore\src\CleanArchNetCore.Domain\obj\Debug\net6.0\CleanArchNetCore.Domain.csproj.AssemblyReference.cache
+C:\Users\brenomartinssilva_fr\source\repos\CleanArchNetCore\src\CleanArchNetCore.Domain\obj\Debug\net6.0\CleanArchNetCore.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brenomartinssilva_fr\source\repos\CleanArchNetCore\src\CleanArchNetCore.Domain\obj\Debug\net6.0\CleanArchNetCore.Domain.AssemblyInfoInputs.cache
+C:\Users\brenomartinssilva_fr\source\repos\CleanArchNetCore\src\CleanArchNetCore.Domain\obj\Debug\net6.0\CleanArchNetCore.Domain.AssemblyInfo.cs
+C:\Users\brenomartinssilva_fr\source\repos\CleanArchNetCore\src\CleanArchNetCore.Domain\obj\Debug\net6.0\CleanArchNetCore.Domain.csproj.CoreCompileInputs.cache
+C:\Users\brenomartinssilva_fr\source\repos\CleanArchNetCore\src\CleanArchNetCore.Domain\obj\Debug\net6.0\CleanArchNetCore.Domain.dll
+C:\Users\brenomartinssilva_fr\source\repos\CleanArchNetCore\src\CleanArchNetCore.Domain\obj\Debug\net6.0\refint\CleanArchNetCore.Domain.dll
+C:\Users\brenomartinssilva_fr\source\repos\CleanArchNetCore\src\CleanArchNetCore.Domain\obj\Debug\net6.0\CleanArchNetCore.Domain.pdb
+C:\Users\brenomartinssilva_fr\source\repos\CleanArchNetCore\src\CleanArchNetCore.Domain\obj\Debug\net6.0\ref\CleanArchNetCore.Domain.dll

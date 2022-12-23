@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CleanArchNetCore.Application\CleanArchNetCore.Application.csproj" />
+    <ProjectReference Include="..\CleanArchNetCore.Domain\CleanArchNetCore.Domain.csproj" />
+    <ProjectReference Include="..\CleanArchNetCore.Infra.Data\CleanArchNetCore.Infra.Data.csproj" />
+  </ItemGroup>
+
+</Project>
